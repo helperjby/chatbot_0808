@@ -7,7 +7,7 @@ pip3 install tensorflow==2.10.0 <br>
 
 
 import tensorflow as tf <br>
-tf.__version__
+tf.\\__version\\__
 
 
 
