@@ -16,6 +16,13 @@ pip3 install tensorflow==2.10.0 <br>
 import tensorflow as tf <br>
 tf.\_\_version\_\_ <br>
 
+### 텐서플로우 2.17.0  가상 환경 설치
+conda create -n tf217 python=3.10.12 anaconda
+conda activate tf217
+conda update pip
+pip3 install tensorflow==2.17.0
+
+
 ### TF2.10.0 윈도우용 CUDA설치 공유 드라이브
 https://drive.google.com/drive/folders/13JVO-1VYis_Hz762ydWI0HH-VyPBnD8l
 
