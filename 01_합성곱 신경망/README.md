@@ -16,6 +16,12 @@ pip3 install tensorflow==2.10.0 <br>
 import tensorflow as tf <br>
 tf.\_\_version\_\_ <br>
 
+### 텐서플로우 2.15  가상 환경 설치
+conda create -n tf215 python=3.10 anaconda <br>
+conda activate tf215 <br>
+conda update pip <br>
+pip3 install tensorflow==2.15.0 <br>
+
 ### 텐서플로우 2.16.2  가상 환경 설치
 conda create -n tf216 python=3.10 anaconda <br>
 conda activate tf216 <br>
