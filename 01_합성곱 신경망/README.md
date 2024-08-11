@@ -17,10 +17,10 @@ import tensorflow as tf <br>
 tf.\_\_version\_\_ <br>
 
 ### 텐서플로우 2.17.0  가상 환경 설치
-conda create -n tf217 python=3.10.12 anaconda
-conda activate tf217
-conda update pip
-pip3 install tensorflow==2.17.0
+conda create -n tf217 python=3.10.12 anaconda <br>
+conda activate tf217 <br>
+conda update pip <br>
+pip3 install tensorflow==2.17.0 <br>
 
 
 ### TF2.10.0 윈도우용 CUDA설치 공유 드라이브
