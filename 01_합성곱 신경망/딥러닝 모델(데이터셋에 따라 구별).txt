@@ -1,0 +1,5 @@
+* 딥러닝 모델(데이터셋에 따라 구별)
+1. 선형 회귀  :  답(target)의 범주가 정해지지 않음, 직선 함수 , W*X+b로 출력,활성화 함수가 없다
+                    가중치(weight), 편향(bias), 예측함수,비용함수, 경사하강법
+2. 이진분류  :   답이 2개, 활성화 함수(activation function)로 sigmoid함수를 사용
+3. 다중 분류  :  답이 3개 이상, 활성화 함수(activation function)로 softmax함수를 사용
