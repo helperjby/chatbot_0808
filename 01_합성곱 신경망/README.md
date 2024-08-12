@@ -38,5 +38,8 @@ pip3 install tensorflow==2.17.0 <br>
 ### TF2.10.0 윈도우용 CUDA설치 공유 드라이브
 https://drive.google.com/drive/folders/13JVO-1VYis_Hz762ydWI0HH-VyPBnD8l
 
-### CUDA/cuDNN 설치설치 참고 사이트
+### CUDA/cuDNN 설치 참고 사이트
 https://sodayeong.tistory.com/227
+
+### intel oneDNN 참고 사이트
+https://github.com/oneapi-src/oneDNN
