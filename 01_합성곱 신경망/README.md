@@ -42,4 +42,5 @@ https://drive.google.com/drive/folders/13JVO-1VYis_Hz762ydWI0HH-VyPBnD8l
 https://sodayeong.tistory.com/227
 
 ### intel oneDNN 참고 사이트
-https://github.com/oneapi-src/oneDNN
+https://github.com/oneapi-src/oneDNN  <br>
+https://www.intel.com/content/www/us/en/developer/tools/oneapi/onednn.html#gs.cy1su7
