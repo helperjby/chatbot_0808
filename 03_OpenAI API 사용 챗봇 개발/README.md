@@ -2,8 +2,10 @@
 
 
 <br>
-[1] OpenAI API 사용 웹사이트:  https://platform.openai.com/
+[1] OpenAI API 사용 웹사이트:    https://platform.openai.com/
+<br>
 <br>
 
-[2] OpenAI 서버 상태 확인 사이트 : https://status.openai.com/
+[2] OpenAI 서버 상태 확인 사이트 :   https://status.openai.com/
+<br>
 <br>
